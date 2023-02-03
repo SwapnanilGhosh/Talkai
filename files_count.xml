@@ -16,13 +16,13 @@
 	<json/>
 	<txt/>
 	<autocad/>
-	<fonts>16</fonts>
+	<fonts>15</fonts>
 	<scraping_reload>1</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
-	<email>tedsrswsg@t.com</email>
-	<theme_name>WmdTheme675143</theme_name>
-	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/ethermoon.my.canva.site_tedsrswsg_t.com_h8n60elxex/</server_url_front_page>
+	<email>tedsrswssg@t.com</email>
+	<theme_name>WmdTheme675144</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/ethermoon.my.canva.site_tedsrswssg_t.com_ojs6jfp5gd/</server_url_front_page>
 	<no_www_url>ethermoon.my.canva.site</no_www_url>
 	<hosted_domain/>
 	<original_archive_url>https://ethermoon.my.canva.site/talkai</original_archive_url>
@@ -31,5 +31,5 @@
 	<total_urls_from_api/>
 	<max_reached_live>false</max_reached_live>
 	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>4748</total_size>
+	<total_size>4668</total_size>
 </pagescount>
